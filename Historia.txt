@@ -10,3 +10,5 @@ Hoy hablaremos de su historia.
 En la cámara parece alto pero la verdad es que no lo es.
 
 Hoy es el CEO de Platzi.
+
+Probando hacer commit con cm 
